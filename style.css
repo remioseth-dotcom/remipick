@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  padding: 20px;
+  background: #f4f4f4;
+}
+h1 {
+  color: #333;
+}
+.section {
+  margin-bottom: 20px;
+}
+select {
+  margin-right: 10px;
+  padding: 5px;
+}
+button {
+  margin-top: 10px;
+  padding: 8px 12px;
+  font-size: 16px;
+}
+pre {
+  background: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+  white-space: pre-wrap;
+}
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+li {
+  margin-bottom: 5px;
+}
